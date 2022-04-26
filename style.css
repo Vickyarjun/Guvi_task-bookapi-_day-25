@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lateef&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel+Decorative&family=Lateef&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Berkshire+Swash&family=Mate+SC&family=Mea+Culpa&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Mate+SC&family=Mea+Culpa&family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Mea+Culpa&family=Monoton&display=swap');
+body{
+    font-family: 'Monoton', cursive;
+    color:#ff00dd; 
+    background-color: rgb(97, 172, 136);
+}
+.font{
+    font-family: 'Bad Script', cursive;
+    font-weight: 900 !important;
+    color: #ffe100;
+}
+.inp{
+    font-family: 'Mate SC', serif;
+}
+p{
+    font-family: 'Cinzel Decorative', cursive;
+    color:#ffe100;
+    font-weight: 900;
+}
+#style{
+   
+    font-family: 'Berkshire Swash', cursive;
+    color: #ff00dd;
+}
